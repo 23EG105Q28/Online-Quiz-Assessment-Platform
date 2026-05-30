@@ -47,7 +47,7 @@ npm run dev
 ```
 
 Open http://localhost:3000
-Deployed link :https://w-inky.vercel.app/login
+Deployed link :https://w-inky.vercel.app/
 
 ### Health Checks
 
